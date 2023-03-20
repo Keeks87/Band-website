@@ -1,3 +1,6 @@
+"""
+URL patterns for the 'band' web application.
+"""
 from django.urls import path
 from . import views
 

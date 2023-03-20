@@ -1,3 +1,8 @@
+"""
+URL patterns for the ourblog app.
+
+Includes a ListView to display the 25 most recent posts and a DetailView to display a single post.
+"""
 from django.views.generic import ListView, DetailView
 from django.urls import path
 from .models import Post

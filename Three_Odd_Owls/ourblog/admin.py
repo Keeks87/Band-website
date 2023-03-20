@@ -1,3 +1,6 @@
+"""
+Admin configuration for the ourblog app.
+"""
 from django.contrib import admin
 from .models import Post, Comment
 
