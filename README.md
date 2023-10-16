@@ -32,4 +32,4 @@ To build and run the app using Docker, follow these steps:
     ```
     docker run -p 8000:8000 my-django-app
     ```
-4. Navigate to `http://localhost:8000` in your web browser to view the app.
+4. Navigate to `http://localhost:8000` in your web browser to view the app...
